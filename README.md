@@ -1,1 +1,1 @@
-# HateDetech
+# HateDetect
