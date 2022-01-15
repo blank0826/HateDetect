@@ -18,7 +18,7 @@ The code is written through **Python**.
   **<ins>3. Training and Testing of the Data**</ins><br/>
   Divide the dataset into 2 parts based on comments and labels. After that, create the matrix of tokenized counts using Count Vectorizer.<br/>
   Then use train_test_split to divide the data into training and testing be specifying that each of them has 33% of the data and random state was set to 42 so that it gives almost the same answer in each execution.<br/>
-  After divison, use the training data to train the system and then later it can be used to check the comments.<br/><br/>
+  After divison, use the training data to train the system and then later it can be used to check the comments.<br/>
   
   **<ins>4. hate_speech_detection() [Main Function]</ins>**<br/>
   This is the main function. Initally streamlit is set up which is used to for showing input and ouput in python code in the form of a website. Then we take input from the user and send it into the decision classifier to tell the category of the comment. Then output it into the website. <br/><br/>
