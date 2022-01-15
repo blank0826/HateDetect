@@ -4,10 +4,8 @@ This is software that takes in comments and checks whether that comment is in ha
 
 The code is written through **Python**.
 
-## Objective
+# [Objective](https://github.com/blank0826/HateDetect/blob/master/Hate_Speech_Detection.py)
 
-### [Hate Detect](https://github.com/blank0826/HateDetect/blob/master/Hate_Speech_Detection.py)
-----
   **<ins>This program can be divided into 4 sections:</ins>** <br /><br />
   **<ins>1. Dataset**</ins><br/>
   It consisted of 7 columns which consisted of comments, whether it is hateful or can be used in normal language, count of how much of each category is in the comment.<br/>
